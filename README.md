@@ -1,4 +1,4 @@
 # Demo
 
-Practising
+Practise
 on tuesday
